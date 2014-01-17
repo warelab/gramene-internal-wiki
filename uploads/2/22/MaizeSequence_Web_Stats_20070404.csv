@@ -1,0 +1,140 @@
+
+#--------------------------------------------------------
+# Profile Name: www.maizesequence.org
+# Report Name: Executive Overview
+# Date Range: 3/28/2007 - 4/3/2007
+#--------------------------------------------------------
+
+#--------------------------------------------------------
+# Visits and Pageviews
+#--------------------------------------------------------
+Date Range,Visits,Pageviews
+Wed 3/28,87,349
+Thu 3/29,52,253
+Fri 3/30,63,249
+Sat 3/31,15,77
+Sun 4/1,18,44
+Mon 4/2,51,245
+Tue 4/3,39,200
+
+#--------------------------------------------------------
+# Visits by New and Returning
+#--------------------------------------------------------
+Visitor Types,Visits
+Returning Visitor,202
+New Visitor,123
+
+#--------------------------------------------------------
+# Geo Map Overlay
+#--------------------------------------------------------
+Country/Region/City,Visits
+Beijing|399289|1163883,28
+Ithaca|424485|-764804,22
+Madison|430761|-894104,15
+Milano|454667|92000,14
+Ames|420360|-934652,12
+Heine|533000|86667,12
+Wuhan|305833|1142667,12
+Nanning|228167|1083166,10
+Urbana|401095|-882123,9
+West Lafayette|404249|-869162,7
+Zhengzhou|347578|1136486,7
+Boalsburg|407748|-777747,7
+Raleigh|357463|-787239,5
+Athens|339499|-833750,5
+Amman|319500|359333,5
+Lyon|457500|48500,5
+Rome|419000|124832,4
+Saint Louis|386385|-903026,4
+Zürich|473667|85500,4
+Toledo|416733|-836044,4
+Alcalá De Henares|404833|-33667,4
+Mexico|194342|-991386,4
+Shanghai|312222|1214581,4
+Greensboro|360844|-798209,4
+Saint Louis|386657|-903231,4
+Minneapolis|449733|-932323,3
+Guelph|435500|-802500,3
+Montpellier|436000|38833,3
+Columbia|389033|-921022,3
+Hyderabad|173753|784744,3
+Tübingen|485333|90500,3
+Ames|420478|-936416,3
+Jinan|366683|1169972,3
+Stanford|374178|-1221720,2
+Tucson|322338|-1109500,2
+Arlington|388782|-771054,2
+Ciudad Nezahualcóyotl|194136|-990331,2
+Wilmington|397592|-755664,2
+Huntington Station|408152|-733624,2
+Washington|389097|-770231,2
+Villeurbanne|457667|48833,2
+Dawei|387500|1153833,2
+Grand Forks|479312|-971582,2
+Urayasu|356706|1398886,2
+Columbus|399968|-829883,2
+El Roble|94789|-665811,2
+Berkeley|378668|-1222536,2
+San Luis Potosí|221500|-1009833,1
+Philadelphia|399597|-751968,1
+Ludwigshafen Am Rhein|494811|84353,1
+Indore|227167|758333,1
+Cologne|509333|69500,1
+Baton Rouge|304499|-910979,1
+Adelaide|-349333|1386000,1
+Loughborough|527667|-12000,1
+Parla|402333|-37668,1
+Saint-Gratien|489667|22833,1
+São Paulo|-235333|-466167,1
+Los Angeles|340416|-1182988,1
+Sahuarita|319102|-1108997,1
+Laramie|414225|-1056073,1
+University Park|408077|-778616,1
+Stoughton|429252|-891562,1
+Atlanta|338004|-843865,1
+Julian|409153|-779341,1
+Wallingford|414566|-728103,1
+Glenelg|392484|-770341,1
+La Grama|104617|-669956,1
+Thornton|-339167|185333,1
+Munich|481500|115833,1
+Sorø|554333|115667,1
+Tifton|314536|-835082,1
+Kampong Pelimbaian|31667|1016333,1
+Lake Zurich|422008|-880431,1
+Raleigh|358278|-786421,1
+Tucson|322369|-1109559,1
+Berkeley|378781|-1222710,1
+Junction City|442119|-1232850,1
+Lafayette|403987|-868642,1
+Vancouver|492500|-1231333,1
+Cairo|300500|312500,1
+Delhi|286667|772167,1
+Bombay|189750|728258,1
+Ruda Slaska|503167|188500,1
+Serdang|30333|1017167,1
+Moscow|467172|-1169179,1
+La Jolla|328807|-1172359,1
+Elizabeth|406636|-741991,1
+Johnston|417031|-937204,1
+Arlesheim|474833|76167,1
+Pullman|468387|-1176443,1
+West Lafayette|404763|-869571,1
+Brownsville|356129|-892884,1
+Níkaia|379667|236500,1
+Changwat Chiang Mai|187950|990081,1
+Barcelona|413833|21833,1
+Nagareyama|358506|1398913,1
+Ames|420300|-935905,1
+Longjumeau|487000|23000,1
+Montclair|408315|-742082,1
+
+#--------------------------------------------------------
+# Visits by Source
+#--------------------------------------------------------
+Sources,Visits
+(direct),111
+gramene.org,88
+maizegdb.org,64
+google,31
+plantgdb.org,6

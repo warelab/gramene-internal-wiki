@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media
+END
+Generic.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media/Generic.php
+END
+Bitmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media/Bitmap.php
+END
+Bitmap_ClientOnly.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media/Bitmap_ClientOnly.php
+END
+BMP.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media/BMP.php
+END
+SVG.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media/SVG.php
+END
+DjVu.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media/DjVu.php
+END
+Tiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/media/Tiff.php
+END

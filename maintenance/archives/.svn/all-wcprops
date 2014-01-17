@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/50582/branches/REL1_15/phase3/maintenance/archives
+END
+rebuildRecentchanges.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/rebuildRecentchanges.inc
+END
+patch-filearhive-user-index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-filearhive-user-index.sql
+END
+patch-ss_active_users.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-ss_active_users.sql
+END
+patch-hitcounter.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-hitcounter.sql
+END
+patch-ar_parent_id.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-ar_parent_id.sql
+END
+upgradeLogging.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/upgradeLogging.php
+END
+populateSha1.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/populateSha1.php
+END
+patch-pt_title-encoding.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-pt_title-encoding.sql
+END
+patch-fix-il_from.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/50582/branches/REL1_15/phase3/maintenance/archives/patch-fix-il_from.sql
+END
+patch-protected_titles.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-protected_titles.sql
+END
+patch-change_tag.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-change_tag.sql
+END
+patch-ipb_allow_usertalk.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-ipb_allow_usertalk.sql
+END
+patch-user_last_timestamp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-user_last_timestamp.sql
+END
+patch-profiling.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-profiling.sql
+END
+patch-searchindex.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-searchindex.sql
+END
+patch-page_props.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-page_props.sql
+END
+patch-ipb_by_text.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-ipb_by_text.sql
+END
+patch-log_user_text.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-log_user_text.sql
+END
+patch-updatelog.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-updatelog.sql
+END
+patch-linktables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-linktables.sql
+END
+patch-pl-tl-il-unique.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-pl-tl-il-unique.sql
+END
+patch-profiling-memory.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-profiling-memory.sql
+END
+upgradeWatchlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/upgradeWatchlist.php
+END
+patch-category.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/archives/patch-category.sql
+END

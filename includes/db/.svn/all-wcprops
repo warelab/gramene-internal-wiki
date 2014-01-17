@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mediawiki/!svn/ver/57814/branches/REL1_15/phase3/includes/db
+END
+DatabaseOracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/db/DatabaseOracle.php
+END
+DatabasePostgres.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50474/branches/REL1_15/phase3/includes/db/DatabasePostgres.php
+END
+LBFactory_Multi.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/db/LBFactory_Multi.php
+END
+DatabaseIbm_db2.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/db/DatabaseIbm_db2.php
+END
+Database.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50616/branches/REL1_15/phase3/includes/db/Database.php
+END
+DatabaseMssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/db/DatabaseMssql.php
+END
+LBFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/db/LBFactory.php
+END
+DatabaseSqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/57814/branches/REL1_15/phase3/includes/db/DatabaseSqlite.php
+END
+LoadBalancer.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/db/LoadBalancer.php
+END
+LoadMonitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/db/LoadMonitor.php
+END

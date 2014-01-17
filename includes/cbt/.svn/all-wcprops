@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/cbt
+END
+CBTCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/cbt/CBTCompiler.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/cbt/README
+END
+CBTProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/cbt/CBTProcessor.php
+END

@@ -1,0 +1,53 @@
+8
+
+dir
+1161
+http://mediawiki.googlecode.com/svn/trunk/extensions/Gravatar/.build
+http://mediawiki.googlecode.com/svn
+
+
+
+2008-01-15T15:29:28.761159Z
+918
+jeanlou.dupont
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+51235a64-d92d-0410-a7aa-c7403dfc0a9e
+
+build.properties
+file
+
+
+
+
+2008-05-21T19:39:42.000000Z
+f91836e188307ddd90f9a347ee171181
+2008-01-15T15:29:28.761159Z
+918
+jeanlou.dupont
+
+build.xml
+file
+
+
+
+
+2008-05-21T19:39:42.000000Z
+06c676c7963c9bd671d5ff419c19eb56
+2008-01-15T15:29:28.761159Z
+918
+jeanlou.dupont
+has-props
+

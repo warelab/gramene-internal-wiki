@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 47
+texvc
+texvc_test
+texvc_tex
+*.cmi
+*.cmx
+*.mli
+*~
+END

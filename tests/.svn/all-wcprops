@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/tests
+END
+MediaWiki_TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/tests/MediaWiki_TestCase.php
+END
+test-prefetch-stub.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/tests/test-prefetch-stub.xml
+END

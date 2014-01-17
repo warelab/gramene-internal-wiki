@@ -1,0 +1,85 @@
+TableEdit - a set of extensions to create and edit mediawiki tables
+----------------
+version 0.75
+IMPORTANT - this version removes hardcoding of wikibox_db. The db name should be set using the global variable $wgTableEditDatabase, which can be set to different databases for different wikis.
+Changed to remove the intermediate step of having to click on Create Table Here.  Just inserts the Table.
+Changed bottom row with edit link to allow sortable.js in MW to work.
+row object updates its row_id on db_save_row()
+more parsing of the wiki markup in the TableEdit special page.
+escaped slashes and \n are converted.
+Changed user rights test so that unauth users can play with the interface, but can't save back to the wiki.  This allows people to at least try the interface.
+----------------
+version 0.6
+Special page now displays template expansions, e.g if the heading style is determined by a wiki template, then it gets used 
+Added hook and extension, TableEditCreationLinks.php to alter the "Create Table Here" text, depending on the template used
+changed how box_uid is done. Wasn't unique enough before
+changed SpecialTableEdit.body.php organization to be more useful for maintenance scripts
+more misc bug fixes.
+Inactivate headings edit link when templates are in use.
+----------------
+version 0.5
+bug fixes for mediawiki 1.10.0
+----------------
+version 0.4
+bug fixes
+----------------
+version 0.3
+Schema changes.  You need to reinstall the schema to use TableEdit.  You may lose some existing tables (remember that this extension is still experimental).
+
+Changed how boxes are identified to handle imports and page moves better
+
+misc. bug fixes
+
+Tables are now saved into the wiki in a less compressed form. This was necessary to allow content that breaks over more than one line, and to support bulleted lists as data.
+
+Template handling changed
+	There are now two ways to represent a table template
+	1. The old way, a return-delimited list is assumed to be a list of headings.
+	2. XML style.  Attributes for the table are wrapped in XML-like tags.
+		<headings></headings> for headings
+		<style></style> for heading style
+		<type></type> for horizontal (default) or vertical (1) orientation
+	
+	
+	3. Added support for special kinds of editable cells in the Template-defined headings. This should work with either the old or XML-style templates
+	Syntax:
+		Heading||column_name|rule
+		
+		rule syntax
+			text					to use input type=text instead of textarea
+			select|1|2|etc 			make a pulldown menu with choices 1, 2, etc
+			lookup|sql|field		sql statement|name of field to return
+									sql statements use {{{column_name}}} in place of specific fields
+			
+			example: Aspect||aspect|lookup|SELECT namespace from go_archive.term WHERE go_id = '{{{1}}}' ORDER BY term_update DESC LIMIT 1|namespace
+		
+		currently available calcs
+			split        			split|delimiter|x|y|z 
+									where x,y, and z are integers indicating which parts of the split to join into the result
+			reqcomplete				reqcomplete|column_name|column_name|column_name...  
+									where column names are required fields.
+									returns "complete" or "required field needed"
+
+Started moving message text to the i18n file.  Needs more work!
+
+Added a hook to allow other extensions to do things to the table before it is saved back to the wiki page.  Example included in the distribution.
+
+----------------
+version 0.2
+Changed persistence to use $_SESSION instead of putting serialized data all over the page.
+Edit conflict detection based on modification timestamp
+----------------
+version 0.1
+
+Basic experimental demo.
+----------------
+
+Manifest:
+TableEdit.php extension to replace <newEditTable/> with a table that uses the editor
+SpecialTableEdit.php - setup for the special page
+SpecialTableEdit.body.php - special page to provide a table editing interface
+SpecialTableEdit.i18n.php - internationalization (needs lots of work!)
+README - this file
+docfigs - directory of screencaps for documentation page
+TableEditLinks.php - example of extension of extension that hooks into SpecialTableEdit.body.php to add links to tables on save
+wikibox_db.sql - schema for the external db

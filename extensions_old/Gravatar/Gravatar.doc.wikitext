@@ -1,0 +1,60 @@
+{{Extension
+|name        = Gravatar
+|status      = beta
+|author      = [[user:jldupont|Jean-Lou Dupont]]
+|image       =
+|version     = 1.1.0
+|update      =
+|mediawiki   = 1.11, 1.12
+|download    = [http://mediawiki.googlecode.com/svn/tags/Gravatar/ SVN]
+|readme      =
+|changelog   = See SVN ($Id: Gravatar.doc.wikitext 1015 2008-04-10 23:31:38Z jeanlou.dupont $)
+|description = Provides integration with [http://site.gravatar.com/ Gravatar].
+|parameters  =
+|rights      =
+|example     =
+}}
+== Purpose ==
+Provides integration with [http://site.gravatar.com/ Gravatar].
+
+== Usage ==
+Just use the following parser function <nowiki>{{#gravatar: email_p1=first-part-before-@|email_p2=second-part-after@ [|optional parameters] }}</nowiki> on the desired wiki page.
+
+== Example ==
+<nowiki>{{#gravatar: email_p1=john.smith|email_p2=gmail.com|size=40}}</nowiki>
+
+== Parameters ==
+For a complete description, please see the ''widgets'' section on Ohloh.
+{|border=1 class='sortable'
+! Parameter !! Description
+|-
+| email_p1  || First part of email i.e. before the ''@''
+|-
+| email_p2  || Second part of email i.e. after the ''@''
+|-
+| width     || image width
+|-
+| height    || image height
+|-
+| alt		|| Alternate text to ''img'' element
+|-
+| title		|| Title text to ''img'' element
+|}
+
+<!--{{
+== Example ==
+[[{{FULLPAGENAMEE}}/Tests]]
+}}-->
+
+== Dependency ==
+* [[Extension:StubManager|StubManager extension version >= 1.1.0 ]]
+{{Pear|Gravatar}}
+
+== History ==
+{|class=datatable
+! Release !! Notes
+|-
+| 1.0.0 || Initial Release
+|-
+| 1.1.0 || Adapted to new URL structure
+|}

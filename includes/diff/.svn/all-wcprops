@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/diff
+END
+HTMLDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/diff/HTMLDiff.php
+END
+DifferenceEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/diff/DifferenceEngine.php
+END
+Diff.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/diff/Diff.php
+END
+Nodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/includes/diff/Nodes.php
+END

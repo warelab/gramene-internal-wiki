@@ -1,0 +1,52 @@
+8
+
+dir
+1161
+http://mediawiki.googlecode.com/svn/tags/StubManager/1.3.0/.build
+http://mediawiki.googlecode.com/svn
+
+
+
+2008-04-08T00:33:51.056185Z
+1000
+jeanlou.dupont
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+51235a64-d92d-0410-a7aa-c7403dfc0a9e
+
+build.properties
+file
+
+
+
+
+2008-05-21T19:39:43.000000Z
+1d798cfe6919d7b5fefc667bb2f78a1c
+2008-04-08T00:33:51.056185Z
+1000
+jeanlou.dupont
+
+build.xml
+file
+
+
+
+
+2008-05-21T19:39:43.000000Z
+06c676c7963c9bd671d5ff419c19eb56
+2008-04-08T00:33:51.056185Z
+1000
+jeanlou.dupont
+

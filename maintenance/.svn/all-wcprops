@@ -1,0 +1,851 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mediawiki/!svn/ver/54975/branches/REL1_15/phase3/maintenance
+END
+renamewiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/renamewiki.php
+END
+dumpUploads.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/dumpUploads.php
+END
+mctest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/mctest.php
+END
+mcc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/mcc.php
+END
+interwiki.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/interwiki.sql
+END
+wikipedia-interwiki.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/wikipedia-interwiki.sql
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/update.php
+END
+checkBadRedirects.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/checkBadRedirects.php
+END
+dumpHTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/dumpHTML.php
+END
+checkAutoLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/checkAutoLoader.php
+END
+stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/stats.php
+END
+updateArticleCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/updateArticleCount.php
+END
+parserTests.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/parserTests.inc
+END
+rebuildrecentchanges.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildrecentchanges.inc
+END
+fuzz-tester.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/51684/branches/REL1_15/phase3/maintenance/fuzz-tester.php
+END
+mwdocgen.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/mwdocgen.php
+END
+initStats.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/initStats.inc
+END
+undelete.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/undelete.php
+END
+rebuildFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildFileCache.php
+END
+generateSitemap.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/generateSitemap.php
+END
+parserTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/parserTests.php
+END
+rebuildrecentchanges.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildrecentchanges.php
+END
+refreshLinks.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/refreshLinks.inc
+END
+attachLatest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/attachLatest.php
+END
+initStats.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/initStats.php
+END
+updateSearchIndex.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/updateSearchIndex.inc
+END
+refreshLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/refreshLinks.php
+END
+updateSearchIndex.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/updateSearchIndex.php
+END
+getSlaveServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/getSlaveServer.php
+END
+removeUnusedAccounts.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/removeUnusedAccounts.inc
+END
+attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/attribute.php
+END
+getLagTimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/getLagTimes.php
+END
+dumpLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/dumpLinks.php
+END
+parserTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/parserTests.txt
+END
+moveBatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/moveBatch.php
+END
+changePassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/changePassword.php
+END
+populateCategory.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/populateCategory.inc
+END
+refreshImageCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/refreshImageCount.php
+END
+cleanupDupes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/cleanupDupes.inc
+END
+userOptions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/userOptions.inc
+END
+fixUserRegistration.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/fixUserRegistration.php
+END
+removeUnusedAccounts.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/removeUnusedAccounts.php
+END
+nukePage.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/nukePage.inc
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/edit.php
+END
+backup.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/backup.inc
+END
+populateCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/populateCategory.php
+END
+userOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/userOptions.php
+END
+namespace2sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/namespace2sql.php
+END
+clear_interwiki_cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/clear_interwiki_cache.php
+END
+nukePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/nukePage.php
+END
+importImages.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/importImages.php
+END
+importDump.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/importDump.php
+END
+nukeNS.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/nukeNS.php
+END
+updateSpecialPages.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/updateSpecialPages.php
+END
+deleteBatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteBatch.php
+END
+dumpSisterSites.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/dumpSisterSites.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/README
+END
+purgeOldText.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/purgeOldText.inc
+END
+updaters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/51640/branches/REL1_15/phase3/maintenance/updaters.inc
+END
+cleanupWatchlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/cleanupWatchlist.php
+END
+importUseModWiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/importUseModWiki.php
+END
+cleanupTitles.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/cleanupTitles.php
+END
+rebuildall.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildall.php
+END
+runJobs.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/runJobs.php
+END
+purgeOldText.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/purgeOldText.php
+END
+ourusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/ourusers.php
+END
+deleteArchivedRevisions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteArchivedRevisions.inc
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/Doxyfile
+END
+deleteOrphanedRevisions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteOrphanedRevisions.inc.php
+END
+rebuildInterwiki.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildInterwiki.inc
+END
+deleteDefaultMessages.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteDefaultMessages.php
+END
+userDupes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/userDupes.inc
+END
+populateParentId.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/populateParentId.inc
+END
+checkImages.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/checkImages.php
+END
+clear_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/clear_stats.php
+END
+commandLine.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/commandLine.inc
+END
+importImages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/importImages.inc.php
+END
+deleteArchivedRevisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteArchivedRevisions.php
+END
+rebuildInterwiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/51684/branches/REL1_15/phase3/maintenance/rebuildInterwiki.php
+END
+addwiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/addwiki.php
+END
+cleanupImages.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/cleanupImages.php
+END
+nextJobDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/nextJobDB.php
+END
+patchSql.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/patchSql.php
+END
+populateParentId.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/populateParentId.php
+END
+importLogs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/importLogs.inc
+END
+cleanupTable.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/cleanupTable.inc
+END
+findhooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/51684/branches/REL1_15/phase3/maintenance/findhooks.php
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/Makefile
+END
+renameDbPrefix.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/renameDbPrefix.php
+END
+createAndPromote.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/createAndPromote.php
+END
+deleteImageMemcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteImageMemcached.php
+END
+benchmarkPurge.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/benchmarkPurge.php
+END
+fixTimestamps.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/fixTimestamps.php
+END
+importLogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/importLogs.php
+END
+checkUsernames.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/checkUsernames.php
+END
+reassignEdits.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/reassignEdits.php
+END
+cleanupSpam.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/cleanupSpam.php
+END
+orphans.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/orphans.php
+END
+parserTestsParserTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/parserTestsParserTime.php
+END
+counter.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/counter.php
+END
+deleteRevision.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteRevision.php
+END
+FiveUpgrade.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/FiveUpgrade.inc
+END
+parserTestsStaticParserHook.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/parserTestsStaticParserHook.php
+END
+deleteOldRevisions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteOldRevisions.inc
+END
+updateRestrictions.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/updateRestrictions.php
+END
+upgrade1_5.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/upgrade1_5.php
+END
+showJobs.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/showJobs.php
+END
+cleanupCaps.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/cleanupCaps.php
+END
+deleteOldRevisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteOldRevisions.php
+END
+renderDump.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/renderDump.php
+END
+rebuildtextindex.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildtextindex.inc
+END
+preprocessorFuzzTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/preprocessorFuzzTest.php
+END
+waitForSlave.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/waitForSlave.php
+END
+updateArticleCount.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/updateArticleCount.inc.php
+END
+wiktionary-interwiki.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/wiktionary-interwiki.sql
+END
+rebuildImages.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildImages.php
+END
+reassignEdits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/reassignEdits.inc.php
+END
+deleteArchivedFiles.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteArchivedFiles.inc
+END
+dumpInterwiki.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/dumpInterwiki.inc
+END
+purgeList.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/purgeList.php
+END
+importTextFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/importTextFile.php
+END
+initEditCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/initEditCount.php
+END
+rebuildtextindex.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildtextindex.php
+END
+deleteOrphanedRevisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteOrphanedRevisions.php
+END
+eval.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/eval.php
+END
+dumpInterwiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/51684/branches/REL1_15/phase3/maintenance/dumpInterwiki.php
+END
+dumpBackup.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/dumpBackup.php
+END
+deleteArchivedFiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/deleteArchivedFiles.php
+END
+namespaceDupes.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/namespaceDupes.php
+END
+fetchText.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/fetchText.php
+END
+sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/sql.php
+END
+showStats.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/showStats.php
+END
+dumpTextPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/dumpTextPass.php
+END
+convertLinks.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/convertLinks.inc
+END
+installExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/installExtension.php
+END
+backupPrefetch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/backupPrefetch.inc
+END
+parserTestsParserHook.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/parserTestsParserHook.php
+END
+rebuildmessages.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/rebuildmessages.php
+END
+convertLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/convertLinks.php
+END
+tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/tables.sql
+END
+fixSlaveDesync.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/fixSlaveDesync.php
+END

@@ -1,0 +1,10 @@
+K 13
+svn:externals
+V 364
+Cite	    http://svn.wikimedia.org/svnroot/mediawiki/branches/REL1_12/extensions/Cite
+Gravatar    http://mediawiki.googlecode.com/svn/trunk/extensions/Gravatar
+StubManager http://mediawiki.googlecode.com/svn/tags/StubManager/1.3.0
+FCKeditor   http://svn.fckeditor.net/MediaWiki/trunk
+inputbox    http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/inputbox
+
+END

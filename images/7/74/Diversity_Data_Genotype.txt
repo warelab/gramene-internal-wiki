@@ -1,0 +1,19 @@
+## Gramene Diversity Data Submission Template
+## GENOTYPE DATA
+##
+## INSTRUCTIONS
+## 1) Please format data in comma-separated-value format, like below, and save the file in plain text format (_not_ rich text or MSWord) 
+## 2) Replace "<line>"'s with _accession_number_ identifiers defined in Diversity_Data_Germplasm.xls.
+## 3) 'markerID' is preferably an 'rs' ID assigned by dbSNP upon your own dbSNP submission, but
+##    if this is not available, use your internal identifier. Please contact Gramene with the rs ID's
+##    when they are available.
+## 4) 'position' should contain physical coordinates that correspond with the genome version
+##    defined in Diversity_Data_Experiment_Info.xls
+##
+## Example:
+## markerID,chromosome#,position,<line1>,<line2>,<line3>,…,<lineN>
+## rs001,1,264,A,C,A,…,A
+## rs002,1,675,G,G,G,…T
+##
+
+markerID,chromosome#,position,<line1>,<line2>,<line3>,…,<lineN>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/postgres/archives
+END
+patch-updatelog.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/postgres/archives/patch-updatelog.sql
+END
+patch-page_props.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/postgres/archives/patch-page_props.sql
+END
+patch-ipb_address_unique.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/postgres/archives/patch-ipb_address_unique.sql
+END
+patch-tsearch2funcs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/postgres/archives/patch-tsearch2funcs.sql
+END
+patch-category.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/postgres/archives/patch-category.sql
+END
+patch-change_tag.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/50060/branches/REL1_15/phase3/maintenance/postgres/archives/patch-change_tag.sql
+END

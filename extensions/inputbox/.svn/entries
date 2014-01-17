@@ -1,0 +1,54 @@
+8
+
+dir
+35144
+http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/inputbox
+http://svn.wikimedia.org/svnroot/mediawiki
+
+
+
+2008-05-15T22:09:54.398465Z
+34897
+siebrand
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dd0e9695-b195-4be7-bd10-2dea1a65a6b6
+
+InputBox.i18n.php
+file
+
+
+
+
+2008-05-21T19:39:52.000000Z
+ab59af11c9bc7bfd978b9b073d181edb
+2008-05-15T22:09:54.398465Z
+34897
+siebrand
+has-props
+
+inputbox.php
+file
+
+
+
+
+2008-05-21T19:39:52.000000Z
+ceb6d250f8d89cb802e633304996e434
+2008-03-05T13:40:21.368776Z
+31587
+catrope
+has-props
+
